@@ -18,7 +18,7 @@ function showLoadingIndicator() {
   document.querySelector(".loading").style.display = "block";
   document.getElementById("result").style.display = "none";
 }
-//comment
+
 function hideLoadingIndicator() {
   document.querySelector(".loading").style.display = "none";
   document.getElementById("result").style.display = "block";
